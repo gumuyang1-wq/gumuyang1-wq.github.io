@@ -1,0 +1,18 @@
+{
+  "name": "SQL 随身学",
+  "short_name": "SQL随身学",
+  "description": "产品经理随时复习 SQL、指标口径和沟通追问的小应用。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbf7f0",
+  "theme_color": "#f6f0e8",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
